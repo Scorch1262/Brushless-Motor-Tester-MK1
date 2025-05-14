@@ -6,3 +6,6 @@
 
 ![Platine](Bilder/1.PNG)
 
+3D-Druck Daten:
+https://makerworld.com/de/models/1416815-brushless-motor-tester-mk1
+
