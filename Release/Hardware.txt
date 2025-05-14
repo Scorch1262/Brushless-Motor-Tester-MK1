@@ -1,0 +1,10 @@
+Hardware Release:
+
+ Board (Hardware V1.0) [F]:
+- Servoanschluss
+- 3V Spannungregler
+- PIC18F46K20
+ - ICSP
+- Power LED
+- Sataus LEDs
+- Poti Anschlusspads

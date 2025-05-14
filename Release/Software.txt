@@ -1,0 +1,9 @@
+Software Release: 
+
+ Funktionen (Software V1.0) [F]:
+- MCC Timer1 Funktion
+- MCC ADC Funktion
+- 1 Servo Ausgang
+- 1 ADC Eingange
+- LED Ansteuerung
+- Brushless Initialisierung beim Start
